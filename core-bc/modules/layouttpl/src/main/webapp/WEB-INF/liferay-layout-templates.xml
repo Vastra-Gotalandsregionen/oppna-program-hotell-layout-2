@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE layout-templates PUBLIC "-//Liferay//DTD Layout Templates 6.2.0//EN" "http://www.liferay.com/dtd/liferay-layout-templates_6_2_0.dtd">
+
+<layout-templates>
+	<custom>
+		<layout-template id="layout_15_70_15" name="Columns 15-70-15">
+			<template-path>/layout_15_70_15.tpl</template-path>
+			<wap-template-path>/layout_15_70_15.wap.tpl</wap-template-path>
+			<thumbnail-path>/layout_15_70_15.png</thumbnail-path>
+		</layout-template>
+
+		<layout-template id="layout_25_50_25" name="Columns 25-50-25">
+			<template-path>/layout_25_50_25.tpl</template-path>
+			<wap-template-path>/layout_25_50_25.wap.tpl</wap-template-path>
+			<thumbnail-path>/layout_25_50_25.png</thumbnail-path>
+		</layout-template>
+
+		<layout-template id="layout_25_75" name="Columns 25-75">
+			<template-path>/layout_25_75.tpl</template-path>
+			<wap-template-path>/layout_25_75.wap.tpl</wap-template-path>
+			<thumbnail-path>/layout_25_75.png</thumbnail-path>
+		</layout-template>
+
+		<layout-template id="layout_75_25" name="Columns 75-25">
+			<template-path>/layout_75_25.tpl</template-path>
+			<wap-template-path>/layout_75_25.wap.tpl</wap-template-path>
+			<thumbnail-path>/layout_75_25.png</thumbnail-path>
+		</layout-template>
+
+		<layout-template id="layout_85_15" name="Columns 85-15">
+			<template-path>/layout_85_15.tpl</template-path>
+			<wap-template-path>/layout_85_15.wap.tpl</wap-template-path>
+			<thumbnail-path>/layout_85_15.png</thumbnail-path>
+		</layout-template>
+
+		<layout-template id="layout_1_70_30_1" name="Columns 1-2(70-30)-1">
+			<template-path>/layout_1_70_30_1.tpl</template-path>
+			<wap-template-path>/layout_1_70_30_1.wap.tpl</wap-template-path>
+			<thumbnail-path>/layout_1_70_30_1.png</thumbnail-path>
+		</layout-template>
+
+  </custom>	
+</layout-templates>
