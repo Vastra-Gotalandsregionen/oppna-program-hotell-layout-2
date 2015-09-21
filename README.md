@@ -1,12 +1,27 @@
-# oppna-program-hotell-layout-2
-Automatically exported from code.google.com/p/oppna-program-hotell-layout-2
 
-Contains Liferay page templates with different layouts. See https://www.liferay.com/community/wiki/-/wiki/Main/Layout+Template.
-# oppna-program-hotell-layout-2
-Automatically exported from code.google.com/p/oppna-program-hotell-layout-2
+<td id="wikicontent" class="psdescription">
+  <h1>
+    <a name="Layout_Templates_2">
+    </a>
+    Layout Templates 2
+    <a href="#Layout_Templates_2" class="section_anchor">
+    </a>
+  </h1>
+  <p>
+    This project contains Liferay layout templates used to define the grid system on a page in a Liferay portal. 
+  </p>
+</td>
 
-Contains Liferay page templates with different layouts. See https://www.liferay.com/community/wiki/-/wiki/Main/Layout+Template.
-
+  <p>
+    <tt>
+      oppna-program-icc
+    </tt>
+     ?r en del i V?stra G?talandsregionens satsning p? ?ppen k?llkod inom ramen f?r 
+    <a href="https://github.com/Vastra-Gotalandsregionen//oppna-program">
+      ?ppna Program
+    </a>
+    . 
+  </p>
   <p>
     <tt>
       oppna-program-hotell-layout-2
